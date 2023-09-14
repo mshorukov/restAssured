@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<response result="0">
+    <providers>
+        <getUIProviders result="0">
+            <provider fiscalName="null" grpId="52" id="3344" country="Кыргызстан" inn="null" jDocDate="null" jDocNum="null" jName="MAKS Партнер Яндекс Такси - пополнение баланса" lName="MAKS Партнер Яндекс Такси - пополнение баланса" logo="https://static.pay24.asia:4267/images/logo-MAKSPartnerYandexTaxi_MaksPartner.png" logo_crc="null" logo_size="null" receiptName="null" sName="MAKS Партнер Яндекс Такси - пополнение баланса" small_logo="null" small_logo_crc="null" small_logo_size="null" supportPhone="" name="MAKS Партнер Яндекс Такси - пополнение баланса" orderId="3344" min_sum="5.0" max_sum="65000.0" precision="0" commission="0" agent_share="0">
+                <constParams />
+                <pages>
+                    <page orderId="1" pageId="3344">
+                        <controls>
+                            <control header="Введите лицевой счет" mask="" regexp=".+" name="account" nobr="false" orderId="1" strip="false" type="text_input" />
+                            <control layout="AL" orderId="2" type="keyboard" />
+                        </controls>
+                    </page>
+                </pages>
+            </provider>
+            <provider fiscalName="null" grpId="164" id="3394" country="Кыргызстан" inn="null" jDocDate="null" jDocNum="null" jName="Чолпон-Ата ЦИСМ - оплата услуг кыргызстандарт" lName="Чолпон-Ата ЦИСМ - оплата услуг кыргызстандарт" logo="https://static.pay24.asia:4267/images/logo-KyrgyzStandart_CholponAtaCICM.png" logo_crc="null" logo_size="null" receiptName="null" sName="Чолпон-Ата ЦИСМ - оплата услуг кыргызстандарт" small_logo="null" small_logo_crc="null" small_logo_size="null" supportPhone="" name="Чолпон-Ата ЦИСМ - оплата услуг кыргызстандарт" orderId="3394" min_sum="5.0" max_sum="65000.0" precision="0" commission="0" agent_share="0">
+                <constParams />
+                <pages>
+                    <page orderId="1" pageId="3394">
+                        <controls>
+                            <control header="Введите номер заказа" mask="" regexp=".+" name="account" nobr="false" orderId="1" strip="false" type="text_input" />
+                            <control layout="AL" orderId="2" type="keyboard" />
+                        </controls>
+                    </page>
+                </pages>
+            </provider>
+        </getUIProviders>
+    </providers>
+</response>
